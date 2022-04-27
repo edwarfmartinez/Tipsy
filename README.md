@@ -1,6 +1,6 @@
 # Tipsy
 
-iOS app to split the bill including tip.
+iOS bill splitting app including tip.
 
 Concepts:
 
